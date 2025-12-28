@@ -1,0 +1,50 @@
+baseURL = "https://owengould.github.io/"
+languageCode = "en-us"
+title = "Owen Gould"
+theme = "hugo-coder"
+defaultContentLanguage = "en"
+# Site metadata
+[params]
+  author = "Owen Gould"      
+  info = "Math and Statistics @ Grinnell College"
+  description = "Powered by Hugo."
+  avatarURL = "images/avatar.png"                  
+  dateFormat = "2006-01-02"                        
+  since = 2025                                     
+  colorScheme = "auto"                             
+  hideCredits = false                              
+  hideCopyright = false
+  rtl = false                                      
+  math = true                                     
+# Social Links
+[[params.social]]
+  name = "GitHub"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/owengould"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 2
+  url = "https://linkedin.com/in/owen-gould-344358296"
+# Syntax highlighting theme for code blocks
+[markup]
+  [markup.highlight]
+    style = "monokai"
+# Menu Configuration
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 2
+[[menu.main]]
+  name = "Personal"
+  url = "/personal/"
+  weight = 3
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
