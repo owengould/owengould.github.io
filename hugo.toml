@@ -5,17 +5,16 @@ theme = "hugo-coder"
 defaultContentLanguage = "en"
 # Site metadata
 [params]
-  author = "Owen Gould"      
-  info = "Math and Statistics @ Grinnell College"
-  description = "Powered by Hugo."
-  avatarURL = "images/avatar.png"                  
-  dateFormat = "2006-01-02"                        
-  since = 2025                                     
-  colorScheme = "auto"                             
-  hideCredits = false                              
+  author = "Owen Gould"  
+  description = "A personal blog powered by Hugo."
+  avatarURL = "images/avatar.png"
+  dateFormat = "2006-01-02"
+  since = 2025
+  colorScheme = "auto"
+  hideCredits = false
   hideCopyright = false
-  rtl = false                                      
-  math = true                                     
+  rtl = false
+  math = true
 # Social Links
 [[params.social]]
   name = "GitHub"
@@ -26,7 +25,7 @@ defaultContentLanguage = "en"
   name = "LinkedIn"
   icon = "fa fa-linkedin"
   weight = 2
-  url = "https://linkedin.com/in/owen-gould-344358296"
+  url = "https://linkedin.com/in/owengould"
 # Syntax highlighting theme for code blocks
 [markup]
   [markup.highlight]
@@ -40,7 +39,7 @@ defaultContentLanguage = "en"
   name = "Research"
   url = "/research/"
   weight = 2
-[[menu.main]]
+ [[menu.main]]
   name = "Personal"
   url = "/personal/"
   weight = 3
@@ -48,3 +47,7 @@ defaultContentLanguage = "en"
   name = "About"
   url = "/about/"
   weight = 4
+[[menu.main]]
+  name = "CV"
+  url = "https://owengould.github.io/autoCV/cv.pdf"
+  weight = 5

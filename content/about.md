@@ -1,9 +1,9 @@
 ---
 title: "About"
-text-wrap: wrap
 ---
 
 I am a fourth-year [mathematics major](https://www.grinnell.edu/academics/majors-concentrations/math) with a [concentration in statistics](https://www.grinnell.edu/academics/majors-concentrations/statistics) at [Grinnell College](https://www.grinnell.edu).
+
 
 My undergraduate studies span probability theory, data science, and statistical/machine learning, and I code in Python and R.
 
