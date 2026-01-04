@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Owen Gould</title>
+    <link>https://owengould.github.io/</link>
+    <description>Recent content on Owen Gould</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://owengould.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://owengould.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://owengould.github.io/about/</guid>
+      <description>&lt;p&gt;I am a fourth-year &lt;a href=&#34;https://www.grinnell.edu/academics/majors-concentrations/math&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mathematics major&lt;/a&gt; with a &lt;a href=&#34;https://www.grinnell.edu/academics/majors-concentrations/statistics&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;concentration in statistics&lt;/a&gt; at &lt;a href=&#34;https://www.grinnell.edu&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grinnell College&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My undergraduate studies span probability theory, data science, and statistical/machine learning, and I code in Python and R.&lt;/p&gt;&#xA;&lt;p&gt;I work as a peer mentor at Grinnell College’s &lt;a href=&#34;https://dasil.sites.grinnell.edu&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Analysis and Social Inquiry Lab&lt;/a&gt;, a grader for the statistics department, and a member of the Statistics &lt;a href=&#34;https://www.grinnell.edu/academics/majors-concentrations/education/committees&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEPC&lt;/a&gt; – a student government body that assists in the faculty hiring and review process within their respective departments, among other responsibilities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://owengould.github.io/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://owengould.github.io/personal/</guid>
+      <description>&lt;p&gt;In my spare time, I enjoy staying active through running, weightlifting, and pickleball.&lt;/p&gt;&#xA;&lt;p&gt;I also love music: I play the drums and collect albums on CD. My favorite artists include Death Grips, Miles Davis (particularly the era of the Second great Quintet from 1961-1968), and billy woods.&lt;/p&gt;&#xA;&lt;p&gt;Finally, I have committed to watching some of the major prestige dramas from the “Golden Age of Television.” Currently, I am working through The Sopranos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://owengould.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://owengould.github.io/research/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;&#xA;  Overview&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#overview&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;My primary research interests are stochastic processes and statistical/machine learning with applications in biology and public health.&lt;/p&gt;&#xA;&lt;h3 id=&#34;iowa-summer-institute-in-biostatistics-2025&#34;&gt;&#xA;  Iowa Summer Institute in Biostatistics 2025&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#iowa-summer-institute-in-biostatistics-2025&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;In the summer of 2025, I joined the Iowa Summer Institute in Biostatistics. In addition to completing introductory biostatistics coursework and learning about the field through conversations with professors, graduate students, and researchers, I completed a research project under the advisement of the University of Iowa’s &lt;a href=&#34;https://www.public-health.uiowa.edu/people/patrick-breheny/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Patrick Breheny&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
