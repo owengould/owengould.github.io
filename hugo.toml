@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 [params]
   author = "Owen Gould"                             
   description = "A personal blog powered by Hugo."
-  info = "Math and Stats Undergrad at Grinnell College"
+  info = "Math and Statistics @ Grinnell College"
   avatarURL = "images/avatar.png"                  
   dateFormat = "2006-01-02"                        
   since = 2025                                     
