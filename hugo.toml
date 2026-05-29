@@ -9,8 +9,8 @@ pagerSize = 10
 
 [params]
 author = "Owen Gould"
-info = "Biostatistics Phd Student at the University of Iowa"
-description = "A personal website powered by Hugo."
+info = "Biostatistics PhD Student at the University of Iowa"
+description = "Biostatistics Phd Student at the University of Iowa"
 avatarURL = "images/avatar.png"
 dateFormat = "2006-01-02"
 since = 2026
@@ -37,18 +37,18 @@ style = "monokai"
 
 [[menu.main]]
 name = "Home"
-icon = "fa-home"
+icon = "fa fa-home"
 url = "/"
 weight = 1
 
 [[menu.main]]
 name = "About"
-icon = "fa-user"
+icon = "fa fa-user"
 url = "/about/"
 weight = 2
 
 [[menu.main]]
 name = "CV"
-icon = "fa-page"
+icon = "fa fa-page"
 url = "/files/cv.pdf"
 weight = 3
