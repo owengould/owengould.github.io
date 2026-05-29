@@ -1,0 +1,54 @@
+baseURL = "https://owengould.github.io/"
+languageCode = "en-us"
+title = "Owen Gould"
+theme = "hugo-coder"
+defaultContentLanguage = "en"
+
+[pagination]
+pagerSize = 10
+
+[params]
+author = "Owen Gould"
+info = "Biostatistics Phd Student at the University of Iowa"
+description = "A personal website powered by Hugo."
+avatarURL = "images/avatar.png"
+dateFormat = "2006-01-02"
+since = 2026
+colorScheme = "dark"
+hideCredits = false
+hideCopyright = false
+rtl = false
+math = true
+
+[[params.social]]
+name = "GitHub"
+icon = "fa fa-github"
+weight = 1
+url = "https://github.com/owengould"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 2
+url = "https://linkedin.com/in/owengould"
+
+[markup.highlight]
+style = "monokai"
+
+[[menu.main]]
+name = "Home"
+icon = "fa-home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+icon = "fa-user"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "CV"
+icon = "fa-page"
+url = "/files/cv.pdf"
+weight = 3
